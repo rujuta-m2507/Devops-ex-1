@@ -7,5 +7,5 @@ for i in range(len(arr)):
         idx=i
         break
 print("index:",idx)
-
+print("hi")
     
